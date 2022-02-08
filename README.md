@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @AdinHal
 - 🌱 I’m currently working with Angluar and Node.js
-- 📫 Contact: adicharmant@icloud.com
