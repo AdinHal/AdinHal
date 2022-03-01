@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AdinHal
-- 🌱 I’m currently working with React and Node.js
+- 🌱 I’m currently working with MERN Stack
