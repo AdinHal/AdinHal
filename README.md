@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @AdinHal
-- 🌱 I’m currently working with MERN Stack
