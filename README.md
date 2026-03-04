@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AdinHal
-- 👨‍💻 Currently I'm working with: Swift & JavaScript
+- 👨‍💻 Currently I'm working with: Spring, Angular & Swift
 - 📐 I like UX/UI too
